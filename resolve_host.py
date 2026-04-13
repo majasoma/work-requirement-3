@@ -1,3 +1,6 @@
+
+
+# Resolve a hostname to an IP address using Python sockets
 import socket
 
 hostname = "example.com"
